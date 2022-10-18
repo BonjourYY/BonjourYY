@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey I'm Jack Fan 👋
+***I'm a Front-End Developer working in Changzhou, Jiangsu.***
 
-<!--
-**BonjourYY/BonjourYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BIO**
 
-Here are some ideas to get you started:
+- 🏢 Working on [XSUPERZONE](https://www.zanqicloud.com/) currently
+- 🌱 Learning all about **Vue**, **Figma**
+- 💬 Ask me about **HTML**, **CSS**, **JS**, **Vue**, **Design**
+- 📫 How to reach me: [twitter.com/](https://twitter.com/)
+- 📝 ~~Checkout my resume~~
+- ⚡ Fun fact: Continuous Learning！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools**
+
+
+
