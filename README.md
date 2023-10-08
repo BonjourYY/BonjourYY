@@ -4,7 +4,7 @@
 
 **BIO**
 
-- 🏢 Working on [XSUPERZONE](https://www.zanqicloud.com/) currently
+- 🏢 Working on [XSUPERZONE](https://www.xrender.com/) currently
 - 🌱 Learning all about **Vue**, **Figma**
 - 💬 Ask me about **HTML**, **CSS**, **JS**, **Vue**, **Design**
 - 📫 How to reach me: [twitter.com/](https://twitter.com/)
